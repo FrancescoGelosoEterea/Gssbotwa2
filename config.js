@@ -7,11 +7,11 @@ global.link = 'https://whatsapp.com/channel/0029VaWJMi3GehEE9e1YsI1S'
 global.linkGroup = 'https://chat.whatsapp.com/E3PWxdvLc7ZCp1ExOCkEGp'
 
 global.apikey = 'bf2d2cf29b3edc604b447983';
-global.ownername = "𝑆𝛪𝐷 𝐵𝛨𝛥𝛪";
-global.owner = ['917050906659'];
-global.premium = ['917050906659'];
+global.ownername = "𝙣𝙤𝙩𝙩𝙪𝙧𝙗𝙖𝙣𝙩𝙞𝙗𝙪𝙨";
+global.owner = ['14054614259'];
+global.premium = ['14054614259'];
 global.packname = "𝚜𝚝𝚒𝚌𝚔𝚎𝚛 𝚋𝚢";
-global.author = "𝐆𝐒𝐒 𝚩𝚯𝚻𝐖𝚫";
+global.author = "Bot 𝙣𝙤𝙩𝙩𝙪𝙧𝙗𝙖𝙣𝙩𝙞𝙗𝙪𝙨";
 global.sessionName = 'session';
 global.prefa = [".", "!", "/", "?"];
 global.typemenu = "v1"
@@ -29,17 +29,17 @@ global.autoBlock = true
  
 /*REPLY MESSAGE*/
 global.mess = {
-    banned: '`You are *Banned* fron using commands!`',
-    bangc: '`This Group is *Banned* from using Commands!`',
-    success: '`✓ Success`',
-    admin: '`This feature is only for group admins`',
-    botAdmin: '`I am not an admin!`',
-    owner: '`You are not my owner`',
-    group: '`You can use this command only in groups ❌`',
-    private: '`Feature is used only for private chats!`',
-    bot: '`Bot number user special features`',
-    wait: '*Processing Your request*',
-    endLimit: '`Your daily limit has expired, the limit will be reset every 12 hours`',
+    banned: '`Sei *bandito* dall uso dei comandi!`',
+bangc: '`Questo gruppo è *bandito* dall uso dei comandi!`',
+success: '`✓ Successo`',
+admin: '`Questa funzione è solo per gli amministratori del gruppo`',
+botAdmin: '`Non sono un amministratore!`',
+owner: '`Non sei il mio proprietario`',
+group: 'Puoi usare questo comando solo nei gruppi ❌',
+private: 'La funzione è utilizzabile solo nelle chat private!',
+bot: '`Funzioni speciali per lutente del numero bot`',
+wait: '*Elaborazione della tua richiesta*',
+endLimit: 'Il tuo limite giornaliero è scaduto, il limite verrà ripristinato ogni 12 ore`'
 };
 
 global.limitawal = {
